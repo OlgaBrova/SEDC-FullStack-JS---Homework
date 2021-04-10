@@ -1,0 +1,33 @@
+[
+    {
+        "id": "1",
+        "question": "1. How much of a neat freak are you?",
+        "answer1": "Cleaning my home is my passion, an obsession. If only I had a vacuum cleaner for my vacuum cleaner!",
+        "answer2": "No coasters in my house, I need to live in a world where people can spill!"       
+    },
+    {
+        "id": "2",
+        "question": "2. How are your home-making skills?",
+        "answer1": "I can't make dinner even by following a recipe book!",
+        "answer2": "My place is the home base for my friends, if I can't host Thanksgiving, no one can!"
+    },
+    {
+        "id": "3",
+        "question": "3. How competitive are you?",
+        "answer1": "I will take a day off work just so I can play ball with you till I win, I better not lose or I will freak out!",
+        "answer2": "I don't care just as long as I'm having fun!"
+    },
+    {
+        "id": "4",
+        "question": "4. Do you like bossing around?",
+        "answer1": "I'm never preachy, I simply want to do my own thing and have fun!",
+        "answer2": "I have to be in charge! My controlling ways are tough to deal with at times!"
+    },
+    {
+        "id": "5",
+        "question": "5. Do you have everything planed out?",
+        "answer1": "My towels are organized into 11 groups. Everything is labeled in my home and I got my wedding planned out at 6th grade!",
+        "answer2": "Today I work as a masseuse, tomorrow I might play the guitar in a caffe!"
+    }
+]
+
