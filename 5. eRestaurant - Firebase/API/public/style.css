@@ -1,0 +1,37 @@
+body {
+    /* background: #ffced4; */
+    background: rgb(211, 229, 255);
+    letter-spacing: 0.1em;
+    font-size: 0.8em;
+}
+
+.container {
+    max-width: 450px;
+    max-height: 700px;
+}
+
+#inputEmail, #inputPassword  {
+    background: white;
+}
+
+#inputEmail:hover {
+    background: #fff2f4;
+    border: 2px solid #8f2935;
+}
+
+#inputPassword:hover {
+    background: #fff2f4;
+    border: 2px solid #8f2935;
+}
+
+.card {
+    border:black;
+}
+
+#submitBtnRegister:hover {
+    background: #363535;
+}
+
+#submitBtnRegister:active {
+    background: black;
+}
